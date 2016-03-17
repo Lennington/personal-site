@@ -1,0 +1,34 @@
+---
+---
+
+/********************
+*
+* Colours
+*
+********************/
+$white: #fff;
+
+/********************
+*
+* Body resets
+*
+********************/
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: $white;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+}
