@@ -14,11 +14,11 @@ body {
 }
 
 body {
-  font-family: 'Work Sans', sans-serif;
+  font-family: "lft-etica", -apple-system,BlinkMacSystemFont,\.SFNSText-Regular,San Francisco,Roboto,Segoe UI,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,Lucida Grande,sans-serif;
   font-size: 20px;
   line-height: 1.5;
-  color: rgba(0,0,0,0.8);
-  background-color: #52D4C9;
+  color: rgba(0,0,0,0.9);
+  background-color: #fafaf0;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ body {
 a {
   font-weight: 700;
   color: inherit;
-  border-bottom: 0.125em solid rgba(0,0,0,0.2);
+  border-bottom: 0.125em solid rgba(0,0,0,0.1);
   text-decoration: none;
   transition: all ease 0.2s;
 }
