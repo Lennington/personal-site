@@ -24,19 +24,19 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-a {
+a,
+a:visited {
   font-weight: 500;
   color: inherit;
-  border-bottom: 4px solid #bdeed8;
+  border-bottom: 2px solid #bdeed8;
   text-decoration: none;
   transition: all ease 0.2s;
 }
 
-a:hover,
-a:visited,
+a:hover,,
 a:active {
   cursor: pointer;
-  color: inherit;
+  color: #000000;
   border-bottom: 4px solid #bdeed8;
 }
 
