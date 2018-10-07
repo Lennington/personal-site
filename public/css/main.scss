@@ -17,8 +17,8 @@ body {
   font-family: -apple-system,BlinkMacSystemFont,\.SFNSText-Regular,San Francisco,Roboto,Segoe UI,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,Lucida Grande,sans-serif;
   font-size: 20px;
   line-height: 1.5;
-  color: rgba(255,255,255,0.7);
-  background-color: #121837;
+  color: #131814;
+  background-color: #bdeed8;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -27,7 +27,7 @@ body {
 a {
   font-weight: 700;
   color: inherit;
-  border-bottom: 4px solid #CF7C7A;
+  border-bottom: 1px solid #131814;
   text-decoration: none;
   transition: all ease 0.2s;
 }
@@ -36,20 +36,16 @@ a:hover,
 a:visited,
 a:active {
   cursor: pointer;
-  color: #fff;
-  border-bottom: 4px solid #CF7C7A;
+  color: #000000;
+  border-bottom: 2px solid #131814;
 }
 
 h1 {
   font-size: 2em;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: -0.02em;
   line-height: 1.1;
-  color: #CF7C7A;
-}
-
-h1 a {
-  font-weight: 900;
+  color: #131814;
 }
 
 .container {
