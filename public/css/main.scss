@@ -18,16 +18,16 @@ body {
   font-size: 20px;
   line-height: 1.5;
   color: #131814;
-  background-color: #bdeed8;
+  background-color: #fafafa;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
 }
 
 a {
-  font-weight: 700;
+  font-weight: 500;
   color: inherit;
-  border-bottom: 1px solid #131814;
+  border-bottom: 4px solid #bdeed8;
   text-decoration: none;
   transition: all ease 0.2s;
 }
@@ -36,8 +36,8 @@ a:hover,
 a:visited,
 a:active {
   cursor: pointer;
-  color: #000000;
-  border-bottom: 2px solid #131814;
+  color: inherit;
+  border-bottom: 4px solid #bdeed8;
 }
 
 h1 {
