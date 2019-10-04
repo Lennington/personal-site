@@ -3,13 +3,15 @@
 
 @font-face {
   font-family: "Space Grotesk Light";
-  src: url("../fonts/SpaceGrotesk-Light.woff2") format('woff2');
+  src: url("../fonts/SpaceGrotesk-Light.woff2") format('woff2'),
+       url("../fonts/SpaceGrotesk-Light.woff") format('woff');
   font-weight: 300;
 }
 
 @font-face {
   font-family: "Space Grotesk Medium";
-  src: url("../fonts/awesome-font-bold.woff") format('woff');
+  src: url("../fonts/SpaceGrotesk-Medium.woff2") format('woff2'),
+       url("../fonts/SpaceGrotesk-Medium.woff") format('woff');
   font-weight: 500;
 }
 
