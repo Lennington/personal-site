@@ -9,8 +9,10 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        'darkGrey-base': '#181818',
-        'darkGrey-highlight': '#202020',
+        'dark-base': '#181818',
+        'dark-highlight': '#202020',
+        'light-base': '#FCFBFA',
+        'light-highlight': '#FFFFFF',
         'spotify': '#1ED760',
         'kinzen': '#FFFFFF',
         'axonista': '#2A34F5'
