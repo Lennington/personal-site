@@ -36,7 +36,9 @@ export default function Home() {
               xmlns="http://www.w3.org/2000/svg"
               width="24"
               height="24"
+              viewBox="0 0 24 24"
               fill="none"
+              className="size-5 md:size-6"
             >
               <g clip-path="url(#a)">
                 <path
@@ -66,7 +68,9 @@ export default function Home() {
               xmlns="http://www.w3.org/2000/svg"
               width="23"
               height="24"
+              viewBox="0 0 24 24"
               fill="none"
+              className="size-5 md:size-6"
             >
               <path
                 fill="currentColor"
@@ -92,7 +96,9 @@ export default function Home() {
               xmlns="http://www.w3.org/2000/svg"
               width="24"
               height="23"
+              viewBox="0 0 24 24"
               fill="none"
+              className="size-5 md:size-6"
             >
               <path
                 fill="#2A34F5"
