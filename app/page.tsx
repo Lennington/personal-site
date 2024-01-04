@@ -30,7 +30,7 @@ export default function Home() {
           <a
             href="https://open.spotify.com"
             target="_blank"
-            className="inline-flex items-center gap-x-2 align-text-top font-bold leading-none text-dark-base underline decoration-spotify decoration-2 underline-offset-4 hover:text-spotify dark:text-light-base"
+            className="inline-flex items-center gap-x-2 align-text-top font-bold leading-none text-dark-base underline decoration-spotify decoration-2 underline-offset-4 transition-all hover:text-spotify hover:decoration-4 hover:underline-offset-2 dark:text-light-base"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -62,7 +62,7 @@ export default function Home() {
           <a
             href="https://www.kinzen.com/"
             target="_blank"
-            className="inline-flex items-center gap-x-2 align-text-top font-bold leading-none text-dark-base underline decoration-black decoration-2 underline-offset-4 hover:text-black dark:text-light-base dark:decoration-kinzen dark:hover:text-white"
+            className="inline-flex items-center gap-x-2 align-text-top font-bold leading-none text-dark-base underline decoration-black decoration-2 underline-offset-4 transition-all hover:text-black hover:decoration-4 hover:underline-offset-2 dark:text-light-base dark:decoration-kinzen dark:hover:text-white"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -90,7 +90,7 @@ export default function Home() {
           <a
             href="https://www.axonista.com/"
             target="_blank"
-            className="inline-flex items-center gap-x-2 align-text-top font-bold leading-none text-dark-base underline decoration-axonista decoration-2 underline-offset-4 hover:text-axonista dark:text-light-base"
+            className="inline-flex items-center gap-x-2 align-text-top font-bold leading-none text-dark-base underline decoration-axonista decoration-2 underline-offset-4 transition-all hover:text-axonista hover:decoration-4 hover:underline-offset-2 dark:text-light-base"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
