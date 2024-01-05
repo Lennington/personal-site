@@ -85,7 +85,7 @@ export default function Home() {
         </p>
 
         <p className="max-w-3xl leading-relaxed md:text-xl">
-          This site is an early work in progress. If you'd like to find out more
+          This site is an early work in progress. If you&apos;d like to find out more
           about my work, or just say hello, drop me an email below.
         </p>
 
