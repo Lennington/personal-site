@@ -91,10 +91,10 @@ export default function Home() {
 
         <a
           href="mailto:hi@iangoode.ie"
-          class="flex flex-none basis-auto items-center gap-3 rounded-lg bg-gray-200 px-4 py-3 text-sm transition-all hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-600 dark:bg-dark-base dark:bg-dark-base dark:text-white dark:hover:bg-dark-highlight dark:focus:ring-gray-300"
+          className="flex flex-none basis-auto items-center gap-3 rounded-lg bg-gray-200 px-4 py-3 text-sm transition-all hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-600 dark:bg-dark-base dark:text-white dark:hover:bg-dark-highlight dark:focus:ring-gray-300"
         >
           <svg
-            class="h-[20px] w-[20px] text-gray-800 dark:text-white"
+            className="h-[20px] w-[20px] text-gray-800 dark:text-white"
             aria-hidden="true"
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
