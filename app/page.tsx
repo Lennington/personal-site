@@ -43,7 +43,7 @@ export default function Home() {
             />
             Spotify
           </a>{" "}
-          in Dublin, working on software for the teams that provide and manage Spotify's content catalogue.
+          in Dublin, working on software for the teams that provide and manage Spotify&apos;s content catalogue.
         </p>
 
         <p className="max-w-3xl leading-relaxed md:text-xl">
