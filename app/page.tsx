@@ -29,7 +29,7 @@ export default function Home() {
         </h1>
 
         <p className="max-w-3xl leading-relaxed md:text-xl">
-          I’m a Product Designer at{" "}
+          I’m a Senior Product Designer at{" "}
           <a
             href="https://open.spotify.com"
             target="_blank"
@@ -43,7 +43,7 @@ export default function Home() {
             />
             Spotify
           </a>{" "}
-          in Dublin, working on internal tools for content analysis and safety.
+          in Dublin, working on software for the teams that provide and manage Spotify&apos;s content catalogue.
         </p>
 
         <p className="max-w-3xl leading-relaxed md:text-xl">
