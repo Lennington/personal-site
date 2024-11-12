@@ -29,7 +29,7 @@ export default function Home() {
         </h1>
 
         <p className="max-w-3xl leading-relaxed md:text-xl">
-          I’m a software designer and former developer with 10+ years of experience.
+          I’m a software designer and former front-end engineer with 10+ years of experience.
         </p>
 
         <p className="max-w-3xl leading-relaxed md:text-xl">
@@ -90,7 +90,7 @@ export default function Home() {
 
         <p className="max-w-3xl leading-relaxed md:text-xl">
           If you&apos;d like to find out more
-          about my work&mdash;or just say hello&mdash;drop me an email below.
+          about my work, or just say hello, then drop me an email below.
         </p>
 
         <a
